@@ -5,7 +5,7 @@ Tmux config settings. Binds keyboard prefix to `, plus sets status bar settings.
 
 ## Installation
 ```
-$ ./install
+$ git clone https://github.com/dtrip/tmux && ~/./tmux/install
 ```
 
 ## License
