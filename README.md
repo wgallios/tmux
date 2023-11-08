@@ -1,7 +1,7 @@
 Tmux
 ====
 
-Tmux config settings. Binds keyboard prefix to `, plus sets status bar settings.
+TMUX config settings. Binds keyboard prefix to `, plus sets status bar settings.
 
 ## Installation
 ```
